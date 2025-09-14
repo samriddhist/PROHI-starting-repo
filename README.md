@@ -62,3 +62,4 @@ _Add the project's authors, contact information, and links to websites or portfo
 ![Dashboard Screenshot](./assets/Dashboard.jpg)
 ![About Screenshot](./assets/About.jpg)
 
+I forgot to add descriptions to the commits so here is a description of what I did, I add three widgets, which included a name input, an age slider and a colour picker. I added a data element, which was temperature data. I added a chart element, which was a line chart. 
