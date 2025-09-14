@@ -56,3 +56,8 @@ Tested on Python 3.12.7 with the following packages:
 ## Contributors
 
 _Add the project's authors, contact information, and links to websites or portfolios._
+
+### Dashboard Screenshots
+![Dashboard Screenshot](./assets/Dashboard.jpg)
+![About Screenshot](./assets/About.jpg)
+
